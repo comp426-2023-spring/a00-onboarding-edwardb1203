@@ -1,0 +1,8 @@
+Install checked: 
+
+SYSTEM:	Darwin Edwards-Air-2.lan 19.6.0 Darwin Kernel Version 19.6.0: Mon Aug 31 22:12:52 PDT 2020; root:xnu-6153.141.2~1/RELEASE_X86_64 x86_64
+SHELL:	[/bin/zsh]
+GIT:	[/usr/bin/git] git version 2.24.3 (Apple Git-128)
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 8.1 (2018 May 18, compiled Jun  5 2020 21:30:37)
+CURL:	[/usr/bin/curl] curl 7.64.1 (x86_64-apple-darwin19.0) libcurl/7.64.1 (SecureTransport) LibreSSL/2.8.3 zlib/1.2.11 nghttp2/1.39.2
+NODE:	[/Users/edwardbaker/.nvm/versions/node/v18.13.0/bin/node] v18.13.0
